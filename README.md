@@ -1,7 +1,7 @@
 # portfolio_watanabe
 ＜product1＞出現するバルーンをクリックして壊してスコアを稼ぐゲームです。全て自分で作成しました。（Unityで制作）<br>
-            product1/Assets/Script配下にソースがあります。
+            product1/Assets/Script配下にソースがあります。<br>
 ＜product2＞お絵描き機能にスクリーンショット機能を設けたものです。全て自分で作成しました。（Unityで制作）<br>
-            product2/Assets/Script配下にソースがあります。
+            product2/Assets/Script配下にソースがあります。<br>
 ＜product3＞HTML上でマウスに眼球が追従してくる制作物です。<br>Shiftキーで「瞬き」、　オプションキーで「笑顔」、　スペースキーを２度押すと「眠る」、左向き矢印キー（←）で「泣く」のモードにそれぞれ遷移します。＊モード間の切り替えにはリロードが必要です。全て自分で製作しました。<br>
 ＜product4＞文字列を加工して文字を抽出するソースです。<br>
