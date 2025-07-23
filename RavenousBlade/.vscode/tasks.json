@@ -1,0 +1,48 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build SFML App",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-std=c++17",
+        "main.cpp",
+        "Character.cpp",
+        "Player.cpp",
+        "PlayerManager.cpp",
+        "Enemy.cpp",
+        "NormalEnemy.cpp",
+        "FastEnemy.cpp",
+        "SlowEnemy.cpp",
+        "EnemyManager.cpp",
+        "AttackArea.cpp",
+        "BigAttackArea.cpp",
+        "SmallAttackArea.cpp",
+        "BaseUIManager.cpp",
+        "ScoreManager.cpp",
+        "ComboManager.cpp",
+        "SPGauge.cpp",
+        "SPManager.cpp",
+        "BlackOut.cpp",
+        "TimerUtils.cpp",
+        "Button.cpp",
+        "GameContext.cpp",
+        "GameOverContext.cpp",
+        "GameTitleContext.cpp",
+        "GaugeManager.cpp",
+        "-o", "main",
+        "-I/usr/local/Cellar/sfml@2/2.6.2_1/include",
+        "-L/usr/local/Cellar/sfml@2/2.6.2_1/lib",
+        "-lsfml-graphics",
+        "-lsfml-window",
+        "-lsfml-audio",
+        "-lsfml-system"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
