@@ -1,0 +1,3 @@
+/Users/koopebooo/Desktop/sfml_0402/build/CMakeFiles/sfml-app.dir
+/Users/koopebooo/Desktop/sfml_0402/build/CMakeFiles/edit_cache.dir
+/Users/koopebooo/Desktop/sfml_0402/build/CMakeFiles/rebuild_cache.dir

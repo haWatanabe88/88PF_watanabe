@@ -1,3 +1,9 @@
-・「NMFB」フォルダは、「No More Fat Body！」のスクリプトを内包しています。
-・「RavenousBlade」フォルダは、RavenousBladeのスクリプトを内包しています。
+・「NMFB」フォルダは「No More Fat Body！」のスクリプトを内包しています。
+
+・「RavenousBlade」フォルダは「RavenousBlade」のスクリプトを内包しています。
+
+・「AE」フォルダは「アルケミックエスケープ」のスクリプトを内包しています。
+
+・「Yadokari」フォルダは「海洋汚染とヤドカリ（仮）」のスクリプトを内包しています。
+
 ・「old」は自分用に過去にgitにまとめておいたものを整理したものです。
