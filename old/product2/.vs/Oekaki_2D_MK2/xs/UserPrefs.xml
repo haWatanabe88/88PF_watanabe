@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{BF18801A-AD6E-05F8-0016-3E4E8A82BF22}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6bcc97af-ef27-4da1-8188-4a59841cb2cd" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/FreeHand.cs">
+    <Files>
+      <File FileName="Assets/Script/Screenshot.cs" Line="105" Column="11" />
+      <File FileName="Assets/Script/FreeHand.cs" Line="81" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

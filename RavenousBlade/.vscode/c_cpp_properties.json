@@ -1,0 +1,20 @@
+// .vscode/c_cpp_properties.json
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "/usr/local/Cellar/sfml@2/2.6.2_1/include"
+      ],
+      "libPath": [
+        "/usr/local/Cellar/sfml@2/2.6.2_1/lib"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/clang++",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "macos-clang-x64"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\gogo_tarubakudan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|d:\\unityprojects\\gogo_tarubakudan\\assets\\script\\selectscene\\questselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\selectscene\\questselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\bullets\\bulletexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullets\\bulletexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|d:\\unityprojects\\gogo_tarubakudan\\assets\\script\\cannons\\cannonmovemanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cannons\\cannonmovemanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|d:\\unityprojects\\gogo_tarubakudan\\assets\\script\\cannons\\cannonmoveauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cannons\\cannonmoveauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|d:\\unityprojects\\gogo_tarubakudan\\assets\\script\\cannons\\cannonbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cannons\\cannonbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|d:\\unityprojects\\gogo_tarubakudan\\assets\\script\\players\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\players\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|d:\\unityprojects\\gogo_tarubakudan\\assets\\script\\bullets\\bullethighspeedrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullets\\bullethighspeedrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\unityprojects\\gogo_tarubakudan\\assets\\script\\cameracontrolllers\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\cameracontrolllers\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\players\\playeritempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\players\\playeritempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\title\\bullettitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\title\\bullettitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\title\\breakwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\title\\breakwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\players\\playermovese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\players\\playermovese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\bullets\\bulletpirate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullets\\bulletpirate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\pirateship\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pirateship\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\title\\zonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\title\\zonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\grow\\createrandomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\grow\\createrandomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\sceneflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sceneflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\unscaledparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\unscaledparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\autodestroyparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\autodestroyparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\closewindowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\closewindowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\title\\pressanybtnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\title\\pressanybtnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\grow\\maxtextmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\grow\\maxtextmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|D:\\UnityProjects\\gogo_tarubakudan\\assets\\script\\title\\titlelogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA2DD9-9CD6-8040-4193-01D754B28485}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\title\\titlelogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\pirateShip\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\pirateShip\\Obstacle.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\pirateShip\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Script\\pirateShip\\Obstacle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:16:50.547Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BulletExplosion.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Bullets\\BulletExplosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullets\\BulletExplosion.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Bullets\\BulletExplosion.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullets\\BulletExplosion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:20:55.899Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestSelector.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\SelectScene\\QuestSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SelectScene\\QuestSelector.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\SelectScene\\QuestSelector.cs",
+              "RelativeToolTip": "Assets\\Script\\SelectScene\\QuestSelector.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:41:12.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CannonBullet.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Cannons\\CannonBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Cannons\\CannonBullet.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Cannons\\CannonBullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Cannons\\CannonBullet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:18:39.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Players\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Players\\PlayerMovement.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Players\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\Players\\PlayerMovement.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:12:49.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CannonMoveAuto.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Cannons\\CannonMoveAuto.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Cannons\\CannonMoveAuto.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Cannons\\CannonMoveAuto.cs",
+              "RelativeToolTip": "Assets\\Script\\Cannons\\CannonMoveAuto.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwFkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:25:55.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CannonMoveManual.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Cannons\\CannonMoveManual.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Cannons\\CannonMoveManual.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Cannons\\CannonMoveManual.cs",
+              "RelativeToolTip": "Assets\\Script\\Cannons\\CannonMoveManual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:25:29.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BulletHighSpeedRun.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Bullets\\BulletHighSpeedRun.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullets\\BulletHighSpeedRun.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Bullets\\BulletHighSpeedRun.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullets\\BulletHighSpeedRun.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:01:37.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\CameraControlllers\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraControlllers\\CameraController.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\CameraControlllers\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraControlllers\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:00:59.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerItemPickup.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Players\\PlayerItemPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Players\\PlayerItemPickup.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Players\\PlayerItemPickup.cs",
+              "RelativeToolTip": "Assets\\Script\\Players\\PlayerItemPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:00:48.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BulletTitle.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\BulletTitle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Title\\BulletTitle.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\BulletTitle.cs",
+              "RelativeToolTip": "Assets\\Script\\Title\\BulletTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:44:02.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerMoveSE.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Players\\PlayerMoveSE.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Players\\PlayerMoveSE.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Players\\PlayerMoveSE.cs",
+              "RelativeToolTip": "Assets\\Script\\Players\\PlayerMoveSE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:42:19.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ZoneManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\ZoneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Title\\ZoneManager.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\ZoneManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Title\\ZoneManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:27:05.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateRandomPosition.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\grow\\CreateRandomPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\grow\\CreateRandomPosition.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\grow\\CreateRandomPosition.cs",
+              "RelativeToolTip": "Assets\\Script\\grow\\CreateRandomPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:52:06.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SceneFlowManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\SceneFlowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SceneFlowManager.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\SceneFlowManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SceneFlowManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwEcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:46:25.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BulletPirate.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Bullets\\BulletPirate.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullets\\BulletPirate.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Bullets\\BulletPirate.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullets\\BulletPirate.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:09:36.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutoDestroyParticle.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\AutoDestroyParticle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AutoDestroyParticle.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\AutoDestroyParticle.cs",
+              "RelativeToolTip": "Assets\\Script\\AutoDestroyParticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:54:37.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnscaledParticle.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\UnscaledParticle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UnscaledParticle.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\UnscaledParticle.cs",
+              "RelativeToolTip": "Assets\\Script\\UnscaledParticle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:47:32.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SoundManager.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SoundManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:55:07.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CloseWindowManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\CloseWindowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CloseWindowManager.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\CloseWindowManager.cs",
+              "RelativeToolTip": "Assets\\Script\\CloseWindowManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:53:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PressAnyBtnManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\PressAnyBtnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Title\\PressAnyBtnManager.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\PressAnyBtnManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Title\\PressAnyBtnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:14:00.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TitleManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\TitleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Title\\TitleManager.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\TitleManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Title\\TitleManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:48:21.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MaxTextManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\grow\\MaxTextManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\grow\\MaxTextManager.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\grow\\MaxTextManager.cs",
+              "RelativeToolTip": "Assets\\Script\\grow\\MaxTextManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:13:09.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BreakWall.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\BreakWall.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Title\\BreakWall.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\BreakWall.cs",
+              "RelativeToolTip": "Assets\\Script\\Title\\BreakWall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:48:11.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TitleLogo.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\TitleLogo.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Title\\TitleLogo.cs",
+              "ToolTip": "D:\\UnityProjects\\gogo_tarubakudan\\Assets\\Script\\Title\\TitleLogo.cs",
+              "RelativeToolTip": "Assets\\Script\\Title\\TitleLogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:50:24.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
